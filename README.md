@@ -22,5 +22,5 @@ Features include **word/character count, case conversion, and clipboard support*
 ---
 
 ## 🌐 Project Link
-- 🔗 **Live App:** [Text Manipulation App](https://harshkr212.github.io/text-manipulation-app/)
+- 🔗 **Live App:** [Text Manipulation App]([https://harshkr212.github.io/text-manipulation-app/](https://harshkr212.github.io/TextUtils/))
 
